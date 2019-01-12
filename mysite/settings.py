@@ -25,7 +25,7 @@ SECRET_KEY = '%rkal!j*#d%!7$98qk#u9cu@e876*fntl4=&&v$7_5jhc$0%3c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<ugapgr>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ugapgr.pythonanywhere.com']
 
 
 # Application definition
